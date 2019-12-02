@@ -10,4 +10,4 @@
   
 Alternatyviai programą galima įvykdyti per bet kurią programavimo aplinką, palaikančią JAVA programavimo kalbą (IntelliJ IDEA,
 NetBeans, Eclipse ir pan.). Tokiu atveju, reikėtų susikurti naują JAVA projektą, įkelti į jį kodą iš failo 
-valiutukursai/ValiutuKursai.javair pridėti biblioteką "jsoup-1.12.1.jar".
+valiutukursai/ValiutuKursai.java ir pridėti biblioteką "jsoup-1.12.1.jar".
